@@ -1,6 +1,19 @@
 //Kod 1 
-let cars = ['volvo', 'saab', 'bmw', 'tesla'];
+// let cars = ['volvo', 'saab', 'bmw', 'tesla'];
 
-for (let i = 0; i < cars.length; i++){
+// for (let i = 0; i < cars.length; i++){
+//     console.log(cars[i]);
+// }
+
+//Kod 2
+let cars = ['volvo', 'saab', 'bmw', 'tesla'];
+let fruits = ['apple', 'banana', 'orange'];
+
+for (let i = 0; i <cars.length; i++){
     console.log(cars[i]);
 }
+
+for (let i = 0; i <fruits.length; i++){
+    console.log(fruits[i]);
+}
+
